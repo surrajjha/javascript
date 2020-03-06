@@ -1,4 +1,4 @@
-[What are the possible ways to create objects in JavaScript?](https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript)
+[What are the possible ways to create objects in JavaScript?](https://github.com/surrajjha/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript)
 
 There are many ways to create objects in javascript as below,
 
